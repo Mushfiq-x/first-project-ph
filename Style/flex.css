@@ -1,0 +1,18 @@
+.p {
+    background-color: rgb(224, 228, 193);
+    padding: 10px;
+    display: flex;
+    justify-content:space-between;
+    flex-direction: column;
+    flex-wrap: wrap;
+    align-items: center;
+    height: 400px;
+
+}
+
+.child {
+    border: 7px solid rgb(168, 168, 233);
+    margin: 5px;
+    padding: 20px;
+    font-size: 28px;
+}
